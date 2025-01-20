@@ -21,3 +21,13 @@ function listaAmigos() {
     }
 
 }
+
+function sortearAmigo() {
+    if (amigos.length === 0) {
+        alert("Por favor, inserte un nombre");
+    } else {
+        let valorAleatorio = Math.floor(Math.random()*amigos.length);
+        let resultado = document.getElementById('resultado');
+        resultado.innerHTML = resultado.innerHTML + `<li>${amigos[valorAleatorio]}</li>`;
+    }
+}
