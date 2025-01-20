@@ -9,6 +9,11 @@ La finalidad del Challenge del Amigo Secreto es sortear un nombre, que será el 
 
 No se necesario la instalación de requisitos adicionales.
 
+### Añadir el nombre de un amigo
 ![Añadir el nombre de un amigo](https://i.imgur.com/jPfVIdx.png)
+
+### Mostrar la lista de amigos añadidos
 ![Mostrar la lista de amigos añadidos](https://i.imgur.com/F0BN6E6.png)
+
+### Mostrar el resultado aleatorio del amigo secreto
 ![Mostrar el resultado aleatorio del amigo secreto](https://i.imgur.com/e956Ve4.png)
